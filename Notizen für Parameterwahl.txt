@@ -1,0 +1,12 @@
+Berechnung der Nabenhöhe nach Abbildung 16 aus FAST Guide:
+
+HubHt=sin(ShftTilt)*OverHang+Twr2Shft+TowerHt
+
+Bei
+ShftTilt = -5 ° Rotorachsenwinkel zur Horizontalen
+OverHang = -5.0191 m Überhang von Turmachse zu Hub-Mittelpunkt
+Twr2Shft = 1.96256 m Abstand von Turmoberkante zu Rotorachse
+TowerHt = 87.6 m Turmhöhe
+
+HubHt = 90 m
+
